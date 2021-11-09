@@ -6,6 +6,7 @@
 # Author: XX
 # Date: 202X-XX-XX
 # Artifact version: 0.0.X
+# Android version tested: XX
 # Requirements: none
 
 # Python libraries to include. If they are not from the
